@@ -6,6 +6,11 @@ python -m build
 pip install <path to tarfile>
 ```
 
+Next steps:
+- change names
+- add another function
+- try to interface with numpy
+
 Some notes on building? 
 - https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html
 
