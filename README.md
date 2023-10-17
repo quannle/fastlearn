@@ -5,4 +5,6 @@ Building and installation
 python -m build
 pip install <path to tarfile>
 ```
-use pip to install and
+
+Some notes on building?
+[https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html]
