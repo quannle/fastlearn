@@ -1,0 +1,3 @@
+FAst STatistical LEARNing (fastlearn)
+
+
