@@ -6,5 +6,9 @@ python -m build
 pip install <path to tarfile>
 ```
 
-Some notes on building?
-[https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html]
+Some notes on building? 
+- https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html
+
+Basics of extension
+- https://docs.python.org/3/extending/extending.html
+- https://lectures.scientific-python.org/advanced/interfacing_with_c/interfacing_with_c.html
